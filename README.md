@@ -24,21 +24,6 @@ A collection of applications by H21 lab.
 | [pcap-editor](pcap-editor/) | Browser-based PCAP packet editor with Wireshark dissection and Python/Scapy encoding |
 | [pcap-visualizer](pcap-visualizer/) | Browser-based PCAP visualization with traffic charts, protocol dissection, and filtering |
 
-## Build Instructions
-
-Most projects use Vite or Create React App:
-
-```bash
-cd <project-name>
-npm install
-npm run build
-```
-
-Special cases:
-- **logs-analyzer** — No build step. Serve with any HTTP server (`python3 -m http.server 8080`).
-- **wasm-antivirus** — Requires Rust toolchain and wasm-pack (`wasm-pack build --target web`).
-- **pcap-visualizer** — Build from the web-ui subdirectory (`cd web-ui && npm install && npm run build`).
-
 ## Copyright
 
 Copyright (c) 2015-2026 H21 lab
