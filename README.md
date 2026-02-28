@@ -9,6 +9,7 @@ A collection of applications by H21 lab.
 |---------|-------------|---------|
 | [earth-viewer-web](earth-viewer-web/) | Interactive 3D Earth viewer with satellite imagery and GFS weather forecasts | PolyForm Shield 1.0.0 |
 | [file-analyzer](file-analyzer/) | Client-side file analyzer with WebGPU visualization, ML-powered analysis, and forensic tools | PolyForm Shield 1.0.0 |
+| [json2pcap](json2pcap/) | Reconstruct and modify PCAPs from tshark JSON output with masking and anonymization | GPL-2.0 |
 | [logs-analyzer](logs-analyzer/) | Browser-based log analysis with DuckDB WASM, SQL queries, and ML anomaly detection | PolyForm Shield 1.0.0 |
 | [pcap-anonymizer](pcap-anonymizer/) | Browser-based PCAP anonymization with SHAKE256 hashing and field masking | GPL-2.0 |
 | [pcap-editor](pcap-editor/) | Browser-based PCAP packet editor with Wireshark dissection and Python/Scapy encoding | GPL-2.0 |
