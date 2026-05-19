@@ -1,7 +1,6 @@
 # H21 Lab - apps-collection
 
 A collection of applications by H21 lab.
-👉 [Get Access](https://buy.polar.sh/polar_cl_eRpd2b9nzlDyHdA2M8vYvCiUyCjl4gPZeYiHs41btfM)
 
 ## Projects
 
